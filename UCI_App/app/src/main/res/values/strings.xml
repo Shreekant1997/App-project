@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UCI_App</string>
+    <string name="welcome_to_uci_app">Welcome to UCI App</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign -up</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+</resources>
